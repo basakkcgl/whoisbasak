@@ -16,7 +16,7 @@ I have genuine interest in corner cases where our models don't function as expec
 > "What do scientists and painters have in common? They both tend to fall in love with their models" <br> (heard at KLI summer school, 2017, Venice)
 
 
-I am interested in developing tools for fault tracing via causality concerning the fundamental problems in AI alignment. To enable safety in AI systems, I believe, there is an urgent need for developing novel methods to verify the system functioning with certain formal guarantees.
+My research is focused on finding the loopholes that give rise to specification gaming or reward hacking problems in AI systems. I am working on a mathematical logic framework where we can formalise multiple redundant causal paths contributing to such outcomes, and further, verify system safety.
 
 
 ### Research topics I am also interested (aka. sidetracked by):
