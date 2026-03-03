@@ -11,9 +11,9 @@ For the last couple years in South Florida, I was a research assistant at the [C
 
 Currently working at King's College London and also affiliated with Imperial College London through UKRI Safe and Trusted AI CDT Programme.
 
-For technical explanations, please check my <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing"> detailed personal research history statement </a> (last updated: December 2022).
+For technical explanations, please check my <a href="https"> detailed personal research history statement </a> (last updated: December 2022).
 
-<!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> -->
+<!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing">  -->
 
 For the publications, please see my <a href="https://scholar.google.com/citations?user=LGUid5IAAAAJ&hl=en"> Google Scholar</a> page. However, the most up-to-date list of open access publications can be reached at [Publications](./publications.html).
 
