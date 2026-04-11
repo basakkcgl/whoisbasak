@@ -11,7 +11,7 @@ For my last year in South Florida, I was a research assistant at the [Center for
 
 Currently working towards my second PhD in Computer Science at King's College London in affiliation with Imperial College London through UKRI Safe and Trusted AI CDT Programme.
 
-For technical explanations, please check my <a href="https://drive.google.com/file/d/1Z_2vtrOB44J_8cbipSNYRkm89yljxM1K/view?usp=sharing"> detailed personal research history statement </a> (last updated: May 2023).
+For technical explanations, please check my <a href="https://drive.google.com/file/d/1Z_2vtrOB44J_8cbipSNYRkm89yljxM1K/view?usp=sharing"> detailed personal research history statement </a> (last updated: March 2023).
 
 <!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing">  -->
 
