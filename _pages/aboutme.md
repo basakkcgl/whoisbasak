@@ -6,12 +6,12 @@ layout: default
 ## Academically:
 
 
-I got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and studied philosophy of science (and classics) with internships at Korkut Yaltkaya EEG-EMG Neurology Unit and then at the Radiology Unit in Antalya; which is then followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); started my first PhD in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing at [NMA Computational Neuroscience Summer School](https://github.com/NeuromatchAcademy).
+I got invested in understanding the ability of symbolic reasoning across evolutionary history (spec., primates) and studied philosophy of science (and classics) with internships at Korkut Yaltkaya EEG-EMG Neurology Unit and then at the Radiology Unit in Akdeniz Uni. School of Medicine, Antalya; which is then followed with a master’s heavily focused on logic, formal reasoning, and theory of computation at [METU](https://www.metu.edu.tr/); in the meantime, attended two summer schools ([LMU-Munich, Germany](https://www.mcmp.philosophie.uni-muenchen.de/about/index.html) and [KLI, Austria](https://www.kli.ac.at/)); started my first PhD in neurosciences at the Brain Institute in Florida, USA. During the pandemic summer, was TAing at [NMA Computational Neuroscience Summer School](https://github.com/NeuromatchAcademy).
 For the last couple years in South Florida, I was a research assistant at the [Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/) under the supervison of [Prof. Pados](https://faculty.eng.fau.edu/dimitrispados/). I re-joined the NMA team as a Project-TA for the inaugural [advanced course on NeuroAI](https://neuromatch.io/neuroai-course/) in 2024 and also as a full-time TA in 2025.
 
-Currently working at King's College London and also affiliated with Imperial College London through UKRI Safe and Trusted AI CDT Programme.
+Currently working towards my second PhD in Computer Science at King's College London in affiliation with Imperial College London through UKRI Safe and Trusted AI CDT Programme.
 
-For technical explanations, please check my <a href="https"> detailed personal research history statement </a> (last updated: December 2022).
+For technical explanations, please check my <a href="https://drive.google.com/file/d/1Z_2vtrOB44J_8cbipSNYRkm89yljxM1K/view?usp=sharing"> detailed personal research history statement </a> (last updated: May 2023).
 
 <!-- For my experience in teaching, please check <a href="https://drive.google.com/file/d/1TWVjqWuji_ccB_X_QEmNnSqd2KmlMv29/view?usp=sharing"> supporting statement (last updated: January 2023) </a> <a href="https://drive.google.com/file/d/1c1ScXncgWqN9CaTl85eE1Q0OCmE-ei3N/view?usp=sharing">  -->
 
