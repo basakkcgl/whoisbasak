@@ -4,6 +4,9 @@ layout: default
 
 ## Open access:
 
+Kocaoglu, B.; Beckers, S.; Chockler, H. [Hybridized Sabotage Logics for Causal Counterfactual Queries](https://program.floc26.org/CREST-2026-07-24#talk:604) 7th Workshop on Formal Reasoning about Causation, Responsibility, and Explanations in Science and Technology, July 24, 2026 at FLoC'26 in Lisbon, Portugal.
+
+
  Varela, C.; Moreira, J.; <ins>Kocaoglu, B.</ins>; Dura-Bernal, S.; Ahmad, S. [A Mechanism for Deviance Detection and Contextual Routing in the Thalamus: A Computational Proposal](https://twitter.com/joaovviitor/status/1591147838918234112?s=51&t=TSaX9LTfCeSobPN69A3XPw) (submitted 2023) [Published](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1359180/full) in Frontiers in Neuroscience (Hypothesis/Theory).
 
 <ins>Kocaoglu, B.</ins>; Alexander, W., [Degeneracy measures in biologically plausible random
