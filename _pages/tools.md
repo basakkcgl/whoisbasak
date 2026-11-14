@@ -12,7 +12,7 @@ layout: default
 ## Tools:
 [Noisy random Boolean networks with perturbations and lesioning](https://github.com/basakkcgl/RBNsims)
 
-[NMODL for iCa, iH to be used in T-current channel models](link)
+[NMODL for iCa, iH to be used in T-current channel models](https://github.com/basakkcgl/thalamus_neuron_mod-2021-24-)
 
 
 <!--
